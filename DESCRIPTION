@@ -1,0 +1,18 @@
+Package: StatComp18001
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Date: 2018-12-21
+Author: jin yixin(18001)
+Maintainer: jin yixin<jinyx@mail.ustc.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
+URL: http://github.com/mrjinyx/StatComp18001
+BugReports: http://github.com/mrjinyx/StatComp18001/issues
+Suggests: knitr, rmarkdown
+

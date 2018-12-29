@@ -1,0 +1,18 @@
+---
+title: "intro"
+author: "jinyixin"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to StatComp18001}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+## Overview
+
+__StatComp18001__ is a simple R package including three functions, namely, _generateBetaRandomVariable_ (generate beta distribution samples using R), _giniRatioComputing_ (Computing Gini ratio using R) and _generateCauthyMetropolisHastings_ (Generate cauthy distribution with Metropolis Hastings method). 
+
+
+
+
