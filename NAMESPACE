@@ -3,4 +3,3 @@
 export(generateBetaRandomVariable)
 export(generateCauthyMetropolisHastings)
 export(giniRatioComputing)
-importFrom("stats", "dnorm", "dt", "rnorm", "runif")
