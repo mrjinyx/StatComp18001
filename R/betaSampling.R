@@ -23,4 +23,5 @@ generateBetaRandomVariable <- function(a,b) {
             y[k] <- x
         }
     }
+    return(y)
 }
